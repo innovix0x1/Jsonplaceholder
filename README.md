@@ -1,5 +1,5 @@
 # JSONPlaceholder 
->json fake REST Flask API for testing and rapid prototyping 
+**json fake REST Flask API for testing and rapid prototyping**
 
 JSONPlaceholder is a simple configurable python flask REST API for testing and rapid prototyping.
 
